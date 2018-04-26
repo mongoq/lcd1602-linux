@@ -1,6 +1,7 @@
 # lcd1602-linux
 
-Verwendete UART-Befehle: http://www.digole.com/index.php?productID=551
+Verwendete UART-Befehle: 
+* http://www.digole.com/index.php?productID=551
 
 Beispieleinsatz: 
 * https://wiki.das-labor.org/w/Projekt/Server_Scripte#SuperScanner
